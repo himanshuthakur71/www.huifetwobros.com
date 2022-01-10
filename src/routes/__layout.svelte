@@ -1,5 +1,6 @@
 <script>
 	import 'materialize-css/dist/css/materialize.min.css';
+import Footer from '../Components/Footer.svelte';
 	import { onMount } from 'svelte';
 	import Navbar from '../Components/Navbar.svelte';
 
@@ -16,3 +17,14 @@
 
 
 <slot/>
+
+<Footer />
+
+
+<style>
+	:global(*){
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+	}
+</style>
