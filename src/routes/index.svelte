@@ -6,9 +6,15 @@ import Wellness from "../Components/Wellness.svelte";
 import Background from "../Components/Background.svelte";
 import WhoWeAre from "../Components/Who-we-are.svelte";
 import OurExpertise from "../Components/our_expertise.svelte";
+import OurBrands from "../Components/our-brands.svelte";
 
 </script>
 
+
+<svelte:head>
+	<title>Home | Huifetwobros</title>
+	<meta name="robots" content="noindex nofollow" />
+</svelte:head>
 
 <Hero />
 
@@ -23,3 +29,5 @@ import OurExpertise from "../Components/our_expertise.svelte";
 <WhoWeAre />
 
 <OurExpertise />
+
+<OurBrands />
