@@ -7,6 +7,7 @@ import Background from "../Components/Background.svelte";
 import WhoWeAre from "../Components/Who-we-are.svelte";
 import OurExpertise from "../Components/our_expertise.svelte";
 import OurBrands from "../Components/our-brands.svelte";
+import OurTeam from "../Components/Our_Team.svelte";
 
 </script>
 
@@ -31,3 +32,5 @@ import OurBrands from "../Components/our-brands.svelte";
 <OurExpertise />
 
 <OurBrands />
+
+<OurTeam />
