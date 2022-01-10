@@ -6,8 +6,8 @@
             <p>Honest, Reliable Business House since 2016</p>
         
             <div class="btns">
-                <a href="/" class="btn-large waves-effect waves-light projects-here">View Projects</a>
-                <a href="/" class="btn-large waves-effect waves-light pulse connect-with-us">Connect With Us</a>
+                <a href="/" class="btn-large waves-effect waves-light projects-here blue-grey darken-4">View Projects</a>
+                <a href="/" class="btn-large waves-effect waves-light pulse connect-with-us blue-grey darken-4">Connect With Us</a>
             </div>
         </div>
     </div>

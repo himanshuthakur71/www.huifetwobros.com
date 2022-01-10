@@ -1,5 +1,5 @@
 <header>
-    <nav>
+    <nav class="blue-grey darken-4">
         <div class="container">
             <div class="nav-wrapper">
                 <a href="#!" class="brand-logo"> <img src="https://static.wixstatic.com/media/276909_3e7f6b92f7a0418e84ada1fd24ee19ce~mv2.png/v1/fill/w_233,h_67,al_c,q_85,usm_0.66_1.00_0.01/Untitled%20design%20(10)_edited.webp" alt="logo"> </a>
